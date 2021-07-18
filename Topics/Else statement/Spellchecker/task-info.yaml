@@ -1,0 +1,12 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: dictionary = ["aa", "abab", "aac", "ba", "bac", "baba", "cac", "caac"]
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6525#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Sun, 18 Jul 2021 03:27:53 UTC
+record: -1
